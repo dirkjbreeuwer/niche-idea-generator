@@ -1,0 +1,29 @@
+{
+  "name": "niche-idea-generator",
+  "version": "1.0.0",
+  "description": "Niche Idea Generator is a web tool that helps users discover unique niche ideas for businesses or content creation. Users enter a keyword, and the tool generates relevant, untapped niche opportunities using natural language processing and machine learning, making the research process efficient and effective.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirkjbreeuwer/niche-idea-generator.git"
+  },
+  "keywords": [
+    "gpt",
+    "natural-language",
+    "niche-ideas",
+    "entrepreneurship",
+    "trends"
+  ],
+  "author": "Dirk Breeuwer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirkjbreeuwer/niche-idea-generator/issues"
+  },
+  "homepage": "https://github.com/dirkjbreeuwer/niche-idea-generator#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
